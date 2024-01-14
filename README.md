@@ -8,7 +8,7 @@
 
   -
 
-<img src="https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674" width="50" height="50" />
+<img src="https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674" width="100" height="120" />
 
 <!---
 carlosmichelutti/carlosmichelutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
