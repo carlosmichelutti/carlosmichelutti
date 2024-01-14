@@ -9,7 +9,7 @@
   -
 
   
-![Python-logo-notext svg](https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674)
+![Python-logo-notext svg](https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674=250x250)
 
 
 <!---
