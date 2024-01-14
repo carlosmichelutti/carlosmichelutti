@@ -9,7 +9,8 @@
   -
 
 <img src="https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674" width="100" height="120" />
-<img src="https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/3714ebfe-c969-4d3c-8944-188574d3176f" width="100" height="120" />
+<img src="[https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/3714ebfe-c969-4d3c-8944-188574d3176f](https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d169ba08-012c-4604-9373-c004bfc716d4)" width="100" height="120" />
+
 
 <!---
 carlosmichelutti/carlosmichelutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
