@@ -6,8 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 
-python GIT mysql mongodb
+  -
+
+  
+![Python-logo-notext svg](https://github.com/carlosmichelutti/carlosmichelutti/assets/124796119/d6f62c4f-1f04-42ee-bf9c-9e7663859674)
+
 
 <!---
 carlosmichelutti/carlosmichelutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
